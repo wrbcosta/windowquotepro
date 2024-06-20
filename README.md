@@ -11,7 +11,7 @@ Simple Windows application to create and view quotes for door types
 ## Design
 The application uses [MVC (Model-View-Controller)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) design pattern for its components.
 
-![WindowQuotePro_ComponentsDiagram](https://github.com/wrbcosta/windowquotepro/assets/69218767/07f5daff-e0b4-42ff-ac16-c40a03311ebe)
+![WindowQuotePro_ComponentsDiagram](https://github.com/wrbcosta/windowquotepro/assets/69218767/71576a2c-6557-4de3-a918-c2ff2828abe6)
 
 ## Running the code
 The code in the repository is ready to be deployed. Simply compile the Visual Studio solution and run the tool's debugger. Or compile the solution and run the portable .exe file anywhere in your system.
